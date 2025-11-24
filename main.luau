@@ -1,4 +1,4 @@
-script_url = "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
+script_url = "https://raw.githubusercontent.com/BlueScriptsAndDies/ProjectTrashBuildABoatV2/refs/heads/main/main.luau"
 
 test_functions = game:HttpGet("https://raw.githubusercontent.com/BlueScriptsAndDies/TestFunctionsGUI/refs/heads/main/main.luau")
 
